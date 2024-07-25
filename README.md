@@ -1,7 +1,3 @@
-<img align="left" height="442" src="https://media.licdn.com/dms/image/D4D03AQEdiDl1Pct_fg/profile-displayphoto-shrink_800_800/0/1691235606653?e=1727308800&v=beta&t=TT7PuEAqSX5xHEs0THXOjb4ViiqMwFoJtdByGA5cFDQ"  />
-
-###
-
 <h3 align="left">👩‍💻  About me</h3>
 
 ###
