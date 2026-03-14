@@ -39,4 +39,4 @@ focused on headless WordPress architecture.
 
 ## 📫 Let's connect
 
-[LinkedIn](https://linkedin.com/in/caioferreiradev) · [Portfolio](https://caioferreiradev.com.br)
+[LinkedIn](https://www.linkedin.com/in/caio-ferreiradev) · [Portfolio](https://caioferreiradev.com.br)
