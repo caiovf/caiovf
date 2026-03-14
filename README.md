@@ -39,13 +39,5 @@ focused on headless WordPress architecture.
 
 ## 📫 Let's connect
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-caioferreiradev-blue?logo=linkedin)
-
-](https://linkedin.com/in/caioferreiradev)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-caioferreiradev.com.br-darkgreen)
-
-](https://caioferreiradev.com.br)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-caioferreiradev-blue?logo=linkedin)](https://linkedin.com/in/caioferreiradev)
+[Portfolio](https://img.shields.io/badge/Portfolio-caioferreiradev.com.br-darkgreen)](https://caioferreiradev.com.br)
